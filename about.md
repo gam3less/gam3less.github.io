@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a 16 year old male who loves to pirate, I have been pirating since  I was 12.  
+I also love privacy and like to stay invisible online.  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Discord: fenici#9772
+[Discord Server](https://discord.gg/srupxKShX2)
+[fenici@gam3less.anonaddy.com](mailto:fenici@gam3less.anonaddy.com)
