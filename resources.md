@@ -6,7 +6,7 @@ permalink: /resources/
 Here is a list of links and helpful sites. If you would like to help out there is a channel in the discord for it.  
 
 # Torrent Clients
-[BiglyBT](https://www.biglybt.com/) Used to by Vuze  
+[BiglyBT](https://www.biglybt.com/)  
 [qBittorrent](https://www.qbittorrent.org/)  
 # Tools
 Coming Soon!
